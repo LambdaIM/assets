@@ -1,0 +1,23 @@
+{
+    "name": "Lambda",
+    "website": "https://lambda.im",
+    "description": "Lambda is a Layer 2 scaling solution for Ethereum.",
+    "explorer": "https://scan.lambda.im",
+    "research": "https://lambda.im",
+    "symbol": "ETH",
+    "type": "coin",
+    "coin_type": 8453,
+    "decimals": 18,
+    "status": "active",
+    "rpc_url": "https://nrpc.lambda.im",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Lambdaim"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/LambdaIM"
+        }
+    ]
+}
