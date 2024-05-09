@@ -1,0 +1,21 @@
+{
+    "name": "Lambda",
+    "symbol": "LAMBDA",
+    "type": "LAMBDAIM",
+    "decimals": 18,
+    "description": "Governance Token on Lambda Chain.",
+    "website": "https://lambda.im",
+    "explorer": "https://scan.lambda.im/token/0x99344442308EDb5Ee0b6cca5e54D1355679357Fa",
+    "status": "active",
+    "id": "0x99344442308EDb5Ee0b6cca5e54D1355679357Fa",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/lambda/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/lambda/"
+        }
+    ]
+}
