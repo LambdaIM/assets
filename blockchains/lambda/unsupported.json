@@ -1,0 +1,16 @@
+{
+  "name": "Lambda Chain Unsupported Tokens",
+  "timestamp": "2024-05-13T17:24:24.046Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/LambdaIM/assets/master/blockchains/lambda/info/logo.png",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": []
+}
