@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "type": "ERC20",
+  "decimals": 6,
+  "id": "0x262aC63E53137B2E38d5D46bd5ACfD32f077EeF0"
+}
