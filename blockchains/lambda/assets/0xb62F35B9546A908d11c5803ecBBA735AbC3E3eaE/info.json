@@ -5,10 +5,10 @@
     "decimals": 6,
     "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
     "website": "https://www.centre.io",
-    "explorer": "https://scan.lambda.im/token/0x026C48C2976EF967ad92439C20389fFE5110A043",
+    "explorer": "https://scan.lambda.im/token/0xb62F35B9546A908d11c5803ecBBA735AbC3E3eaE",
     "research": "https://research.binance.com/en/projects/usd-coin",
     "status": "active",
-    "id": "0x026C48C2976EF967ad92439C20389fFE5110A043",
+    "id": "0xb62F35B9546A908d11c5803ecBBA735AbC3E3eaE",
     "links": [
         {
             "name": "github",
